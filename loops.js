@@ -12,8 +12,7 @@ return array
 function whileLoop(num){
  let num = n 
  while(n>=0){
-   console.log(n)
-   n--
+   console.log(--n)
  }
   return 'done'
 }
