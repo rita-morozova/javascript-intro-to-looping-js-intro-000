@@ -10,9 +10,8 @@ return array
 }
 
 function whileLoop(num){
- let num = n 
- while(n>0){
-   console.log(--n)
+ while(num>0){
+   console.log(--num)
  }
   return 'done'
 }
